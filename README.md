@@ -15,17 +15,7 @@ This app performs basic arithmetic operations with a clean and responsive UI.
 
 ## Technologies Used
 
-- Java
+- Kotline
 - XML
 - Android Studio
-
-## Screenshots
-
-(Add screenshots here)
-
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/Upashtika/Calculator_App.git
+  
